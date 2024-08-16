@@ -14,7 +14,7 @@ iWeather - Simple &amp; Powerful Weather App Free AIA Download
 ![image](https://user-images.githubusercontent.com/55651803/110888827-0071b000-8313-11eb-9044-230b3fe344d2.png)
 
 ### Resources
-<a href="https://cdn.discordapp.com/attachments/605374585801801728/681179204393762997/Elite_Weather.aia">Download Free AIA</a> | <a href="https://rzp.io/l/M74WxISUp">Download Pro AIA</a> | <a href="https://community.kodular.io/t/iweather-simple-and-powerful-weather-app-paid/40027">Kodular Community Discussion</a> | <a href="https://cdn.discordapp.com/attachments/605374585801801728/627084697897271320/iWeather.apk">Download Test APK</a> 
+<a href="https://cdn.discordapp.com/attachments/605374585801801728/681179204393762997/Elite_Weather.aia">Download Free AIA</a> | <a href="[https://rzp.io/l/M74WxISUp](https://cdn.discordapp.com/attachments/605374585801801728/681767973467455508/EliteWeatherPro.aia?ex=66c05467&is=66bf02e7&hm=e26af5fc8bfedaf04134470d0cda2841cafc1fd8168049855b8798d1ebb31919&)">Download Pro AIA</a> | <a href="https://community.kodular.io/t/iweather-simple-and-powerful-weather-app-paid/40027">Kodular Community Discussion</a> | <a href="https://cdn.discordapp.com/attachments/605374585801801728/627084697897271320/iWeather.apk">Download Test APK</a> 
 
 ### Connect With Me
 Telegram - https://t.me/techcvr <br>
